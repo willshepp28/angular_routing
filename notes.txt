@@ -1,0 +1,4 @@
+ng g c <component-names>
+
+routes will be setup in the app.module.ts
+- import RouterModule and Routes
